@@ -1,5 +1,5 @@
 <html>
-<head
+<head>
 <title >FORM</title>
 <style>
   body {background-image:url(/home/awdc/Downloads/paint.jpeg);background-repeat: no-repeat; background-size: cover; background-position: center;  }
@@ -64,4 +64,5 @@
 
 </form>
 </body>
+
 </html>
